@@ -2,8 +2,8 @@
 - 👀 I’m interested in learn a bunch of technology and do my work well
 - 🌱 I’m currently learning C, python, html, css and some basic structs of some programming languages
 - 📫 How to reach me... working on it, later I'll put some social media here
-- 😄 Pronouns: He/ his 
 - ⚡ Fun fact: I like new challenges
+-  :vatican_city:
 
 <!---
 guis-dev/guis-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
