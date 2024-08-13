@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C, python, html, css and some basic structs of some programming languages
 - 📫 How to reach me... working on it, later I'll put some social media here
 - ⚡ Fun fact: I like new challenges
--  :latin_cross:
+-  :latin_cross: :prayer_beads: :church:
 
 <!---
 guis-dev/guis-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
