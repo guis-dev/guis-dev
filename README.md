@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guis-dev
 - 👀 I’m interested in learn a bunch of technology and do my work well
-- 🌱 I’m currently learning C, python, html, css and some basic structs of some programming languages
+- 🌱 I’m currently learning javascript,C, python, html, css and some basic structs of some programming languages
 - 📫 How to reach me... working on it, later I'll put some social media here
 - ⚡ Fun fact: I like new challenges
 -  :latin_cross: :church:
